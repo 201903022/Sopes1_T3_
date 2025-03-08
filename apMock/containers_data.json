@@ -1,0 +1,41 @@
+{
+    "docker_containers": [
+      {
+        "id": "a1b2c3d4e5f6",
+        "name": "stress_io_07-03-2025_120000",
+        "cpu": "25.34%",
+        "mem_usage": "50MiB / 8GiB",
+        "mem_perc": "0.61%",
+        "block_io": "1.2MB / 512KB",
+        "net_io": "150KB / 200KB"
+      },
+      {
+        "id": "b2c3d4e5f6g7",
+        "name": "stress_io_07-03-2025_120100",
+        "cpu": "45.12%",
+        "mem_usage": "200MiB / 8GiB",
+        "mem_perc": "2.44%",
+        "block_io": "2MB / 1MB",
+        "net_io": "300KB / 250KB"
+      },
+      {
+        "id": "c3d4e5f6g7h8",
+        "name": "stress_io_07-03-2025_120200",
+        "cpu": "78.89%",
+        "mem_usage": "500MiB / 8GiB",
+        "mem_perc": "6.10%",
+        "block_io": "5MB / 2MB",
+        "net_io": "500KB / 400KB"
+      },
+      {
+        "id": "d4e5f6g7h8i9",
+        "name": "stress_io_07-03-2025_120300",
+        "cpu": "12.75%",
+        "mem_usage": "30MiB / 8GiB",
+        "mem_perc": "0.37%",
+        "block_io": "512KB / 256KB",
+        "net_io": "100KB / 80KB"
+      }
+    ]
+  }
+  
